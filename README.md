@@ -1,2 +1,2 @@
 # Project-for-Vanish
-Es un proyecto para la empresa Vanish, donde buscamos deducir que acciones serán beneficiosas para la empresa, basadas en la información obtenida en el procesamiento, análisis y exploración de datos, el repositorio es un recopilado de todas las partes que conllevó-
+Es un proyecto para la empresa Vanish, donde buscamos deducir que acciones serán beneficiosas para la empresa, basadas en la información obtenida en el procesamiento, análisis y exploración de datos, el repositorio es un recopilado de todas las partes que conllevó hacerlo, desde el Análisis Exploratorio de Datos, Creación de una base de datos hasta la Creación de un Dashboard y la toma de decisiones.
